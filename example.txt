@@ -1,0 +1,2 @@
+Hello from Gemini CLI!
+This is a sample file created automatically.
